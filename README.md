@@ -66,7 +66,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/kuntalkumar/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=kuntalkumar" >
     </a>
-    <a href="https://github.com/Bharat-Shaw?tab=followers">
+    <a href="https://github.com/kuntalkumar?tab=followers">
         <img src="https://img.shields.io/github/followers/kuntalkumar?label=Followers&style=social" alt="GitHub Badge">
     </a>
     <hr />
@@ -91,3 +91,4 @@ Here are some ideas to get you started:
 
 
 
+<!-- https://github.com/BabyGupta05/BabyGupta05 -->
