@@ -41,11 +41,11 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
 
-<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=BabyGupta05&theme=neon&border_radius=2.7&show_icons=true" alt="baby gupta" />
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=kuntalkumar&theme=neon&border_radius=2.7&show_icons=true" alt="kuntal kumar" />
   
-<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BabyGupta05&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="Baby gupta" />
+<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuntalkumar&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="kuntal kumar" />
   
-<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabyGupta05&theme=neon&border_radius=2.7" alt="baby gupta" />
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuntalkumar&theme=neon&border_radius=2.7" alt="kuntal kumar" />
   
 </div>
 
@@ -54,7 +54,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/kuntal-kumar-621205236" target="blank">
             <img align="center"
                 src="https://img.icons8.com/3d-fluency/94/linkedin.png"
-                alt="https://www.linkedin.com/in/baby-gupta-14a30126b/" width="40px" />
+                alt="https://www.linkedin.com/in/kuntalkumar/" width="40px" />
         </a>
         <a href="https://github.com/kuntalkumar" target="blank">
             <img align="center"
